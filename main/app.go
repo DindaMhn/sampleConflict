@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	allNames := []string{"Anawddwadwagga", "Dinawddawwdda"}
+	allNames := []string{"An", "Di"}
 	name.InitName(allNames)
 }
